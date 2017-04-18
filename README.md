@@ -1,2 +1,2 @@
 # portfolio
-Landing page for my career portfolio
+This is a landing page for my career portfolio
